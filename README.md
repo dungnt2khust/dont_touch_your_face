@@ -1,5 +1,5 @@
-## This repository uses AI library (Tensorflow) to build a web application alerts when you touch your face  
-#### Usage  
+# This repository uses AI library (Tensorflow) to build a web application alerts when you touch your face  
+## Usage  
   1. Clone or download file zip 
   2. npm install to install node_module in package.json
   3. yarn start to start this web application 
